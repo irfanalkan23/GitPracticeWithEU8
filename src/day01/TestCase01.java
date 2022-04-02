@@ -7,6 +7,6 @@ public class TestCase01 {
 
         System.out.println("Testing with Safari");
 
-
+        System.out.println("Testing with Edge");
     }
 }
